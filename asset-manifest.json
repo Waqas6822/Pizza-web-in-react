@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pizza-web-in-react/static/css/main.302046bc.css",
+    "main.js": "/Pizza-web-in-react/static/js/main.bc338b97.js",
+    "static/js/787.6606bfd5.chunk.js": "/Pizza-web-in-react/static/js/787.6606bfd5.chunk.js",
+    "static/media/bg.jpg": "/Pizza-web-in-react/static/media/bg.38f4b3510c1c2bf3df46.jpg",
+    "index.html": "/Pizza-web-in-react/index.html",
+    "main.302046bc.css.map": "/Pizza-web-in-react/static/css/main.302046bc.css.map",
+    "main.bc338b97.js.map": "/Pizza-web-in-react/static/js/main.bc338b97.js.map",
+    "787.6606bfd5.chunk.js.map": "/Pizza-web-in-react/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.302046bc.css",
+    "static/js/main.bc338b97.js"
+  ]
+}
