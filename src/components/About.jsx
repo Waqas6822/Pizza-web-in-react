@@ -1,5 +1,6 @@
 import React from 'react'
 import './About.css'
+import pizza from '../img/pizza.jpg'
 const About = () => {
     return (
        
@@ -13,7 +14,7 @@ const About = () => {
                 <button>Delivery Now</button>
             </div>
             <div className="aboutImg">
-                <img src="/img/pizza.jpg" alt="" />
+                <img src={pizza} alt="" />
             </div>
         </div>
        

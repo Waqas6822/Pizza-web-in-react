@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import './Navbar.css'
 import {HiMenu} from 'react-icons/hi'
 import './Header.css'
+import logo from '../img/logo.png'
 
 const Navbar = () => {
 const [showNav,setShowNav]=useState(false);
@@ -11,7 +12,7 @@ const [showNav,setShowNav]=useState(false);
     <div  >
         <nav className="navbar">
           <div className="logoImg">
-            <img src="/img/logo.png" alt="" />
+            <img src={logo} alt="" />
             </div>
             <div className="navlist">
               <ul className={showNav ? "ul active" : "ul"}>

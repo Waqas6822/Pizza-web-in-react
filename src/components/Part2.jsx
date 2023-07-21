@@ -1,11 +1,12 @@
 import React from 'react'
 import './Part2.css'
+import pizza from '../img/pizza.jpg'
 
 const Part2 = () => {
   return (
     <div className='chicago'>
         <div className="chicagoImg">
-            <img src="/img/pizza.jpg" alt="" />
+            <img src={pizza} alt="" />
         </div>
         <div className="chicagoText">
             <h3>The Pizza Menu</h3>
